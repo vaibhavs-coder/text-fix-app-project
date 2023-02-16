@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-fix-app-project/static/css/main.ef61ce69.css",
+    "main.js": "/text-fix-app-project/static/js/main.8ca3cd83.js",
+    "index.html": "/text-fix-app-project/index.html",
+    "main.ef61ce69.css.map": "/text-fix-app-project/static/css/main.ef61ce69.css.map",
+    "main.8ca3cd83.js.map": "/text-fix-app-project/static/js/main.8ca3cd83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef61ce69.css",
+    "static/js/main.8ca3cd83.js"
+  ]
+}
